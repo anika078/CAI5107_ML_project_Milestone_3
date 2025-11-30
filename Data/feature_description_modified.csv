@@ -1,0 +1,58 @@
+Feature,Description,Category
+DeviceMetric_1,Circle Time,motor
+DeviceMetric_2,Average Distance,motor
+DeviceMetric_3,Circle Total Distance Drawn,motor
+DeviceMetric_4,Circle Crossings,motor
+DeviceMetric_5,First Point Distance to the outline,motor
+DeviceMetric_6,First Point to Last Point Drawn Distance,motor
+DeviceMetric_7,Square Time,motor
+DeviceMetric_8,Average Distance,motor
+DeviceMetric_9,Square Total Distance Drawn,motor
+DeviceMetric_10,Square Crossings,motor
+DeviceMetric_11,First Point Distance to the outline,motor
+DeviceMetric_12,First Point to Last Point Drawn Distance,motor
+DeviceMetric_13,Total Small Circles Tapped,motor
+DeviceMetric_14,Total Large Circles Tapped,motor
+DeviceMetric_15,Total Circles Tapped,motor
+DeviceMetric_16,AVG Accel,motor
+DeviceMetric_17,MIN Accel,motor
+DeviceMetric_18,MAX Accel,motor
+DeviceMetric_19,Circle Time,motor
+DeviceMetric_20,Square Time,motor
+DeviceMetric_21,Total Time,motor
+DeviceMetric_22,Time,motor
+DeviceMetric_23,Time,motor
+DeviceMetric_24,AVG Closest Distance,motor
+DeviceMetric_25,Total Time,motor
+DeviceMetric_26,AVG Closest Distance,motor
+DeviceMetric_27,Total Time,motor
+DeviceMetric_28,Total Colors Gen,executive function
+DeviceMetric_29,Total Correct,executive function
+DeviceMetric_30,AVG time correct resp,executive function
+DeviceMetric_31,Max response time,executive function
+DeviceMetric_32,Total Generated,memory
+DeviceMetric_33,Total Correct,memory
+DeviceMetric_34,Average time for correct response,memory
+DeviceMetric_35,Avg Distance,motor
+DeviceMetric_36,Total Distance,motor
+DeviceMetric_37,Crossed outline,motor
+DeviceMetric_38,First Point Distance,motor
+DeviceMetric_39,First and Last Point Distance,motor
+DeviceMetric_40,Total Elapsed Writing Time,motor
+DeviceMetric_41,Number of Missing Months,speech
+DeviceMetric_42,Number of Additional Incorrect Words,speech
+DeviceMetric_43,Total Elapsed Speaking Time,speech
+DeviceMetric_44,Avg Distance,motor
+DeviceMetric_45,Total Distance,motor
+DeviceMetric_46,Crossed outline,motor
+DeviceMetric_47,First Point Distance,motor
+DeviceMetric_48,First and Last Point Distance,motor
+DeviceMetric_49,Total Elapsed Writing Time,motor
+DeviceMetric_50,Number of Missing Months,speech
+DeviceMetric_51,Number of Additional Incorrect Words,speech
+DeviceMetric_52,Total Elapsed Speaking Time,speech
+DeviceMetric_53,No Missed Words,speech
+DeviceMetric_54,No Additioal Words,speech
+DeviceMetric_55,Start to FWS,speech
+DeviceMetric_56,AVG Time Between Words,speech
+DeviceMetric_57,Total Speaking Time,speech
