@@ -56,40 +56,23 @@ This project implements a hybrid approach combining SMOTE-Tomek data balancing w
 
 ## Repository Structure
 ```
-├── data/
+├── Data/
 │   ├── Parkinsons_vs_Control_Dataset.csv
 │   └── feature_description_modified.csv
-├── notebooks/
-│   ├── Milestone3_Main_Experiments.ipynb
-│   ├── Milestone3_Category_Analysis.ipynb
-│   └── Milestone3_Feature_Importance.ipynb
-├── results/
-│   ├── tables/
-│   └── figures/
+├── Code/
+│   ├── Milestone_III_ML_Project.ipynb
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
 
 ## How to Run
 
-### Option 1: Google Colab (Recommended)
+###  Google Colab 
 1. Open the notebook in Google Colab
 2. Upload the dataset files to `/content/`
 3. Run all cells sequentially
-
-### Option 2: Local Environment
-```bash
-# Clone repository
-git clone https://github.com/anika078/CAI5107_ML_Milestone3.git
-cd CAI5107_ML_Milestone3
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run notebooks
-jupyter notebook
 
 ---
 
